@@ -1,7 +1,7 @@
     {
     "作者":"荷城茶秀",
     "站名":"Free影视", 
-    "主页url":"https://www.freeok.vip",
+    "主页url":"https://www.03yy.co",
     "简介":"请勿相信影片中的广告，以免上当受骗。+module-info-introduction-content\">&&</p>",
     "导演":"导演：&&</div>",
     "主演":"主演：&&</div>",
@@ -9,10 +9,10 @@
     "影片状态":"集数：&&</div>",
 
 //分类页面
-    "数组":"<a&&/div></div></a>",
+    "数组":"class="m-pic-l pic-height-a\">&&</div>",
     "标题":"title=\"&&\"",
-    "副标题":"note\">&&</div>",
-    "图片":"data-original=\"&&\"",
+    "副标题":"<span>&&</span>",
+    "图片":"src=\"&&\"",
     "链接":"href=\"&&\"",
 
 //搜索页面
@@ -31,8 +31,9 @@
     "播放列表":"<a&&</a>",
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-    "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
+    "分类url":"https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}",
+//                   https://www.03yy.co/search.php?page=1&searchtype=5&order=time&tid=1
+    "分类":"电影$1#电视剧$2#动漫$4#综艺$3",
     
     "筛选":{
     "1":[
